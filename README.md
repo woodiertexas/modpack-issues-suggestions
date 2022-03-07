@@ -1,4 +1,4 @@
 # Modpack Issues & Suggestions
-Make bug reports and suggest stuff for my modpacks here.
-
-If you want to just talk about the modpack(s) or anything else, go to the [Discord server](https://discord.gg/ZNTt4YkY5W)
+Make bug reports and suggest stuff for my modpacks in the [issues tab](https://github.com/woodytexas/modpack-issues-suggestions/issues).
+#
+For support, questions, or to talk about the modpacks or anything else, head to the [Discord server](https://discord.gg/ZNTt4YkY5W).
