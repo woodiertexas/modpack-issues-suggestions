@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**What mod are you suggesting to be added/removed?**
+Please include the mod title and its modrinth/github/curseforge link.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**What modpack are you wanting this mod to be added to/removed from?**
+Please provide a modpack name. (Example: Vanilla++)
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**Describe your reasoning for why this mod should be added/removed.**
+Please provide a clear reasoning.
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
